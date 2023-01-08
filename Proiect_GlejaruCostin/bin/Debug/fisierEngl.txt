@@ -1,0 +1,6 @@
+to write,verb,to wrait,no,write,write,british english,o activitate
+write,verb,wrait,no,write,write,german english,gjdgjfgjdjfjfjfjdf
+write,noun,wrait,no,write,write,german english,gjdgjfgjdjfjfjfjdf
+write,adjective,wrait,no,write,write,german english,gjdgjfgjdjfjfjfjdf
+write,adjective,wrait,no,write,write,german english,gjdgjfgjdjfjfjfjdf
+write,pronoun,wrait,no,write,write,german english,gjdgjfgjdjfjfjfjdf

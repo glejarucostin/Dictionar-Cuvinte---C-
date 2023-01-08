@@ -1,0 +1,84 @@
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.csprojAssemblyReference.cache
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.Properties.Resources.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.csproj.GenerateResource.cache
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.csproj.CoreCompileInputs.cache
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.Adjectiv.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.Verb.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\Proiect_GlejaruCostin\Proiect_GlejaruCostin\bin\Debug\Proiect_GlejaruCostin.exe.config
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\Proiect_GlejaruCostin\Proiect_GlejaruCostin\bin\Debug\Proiect_GlejaruCostin.exe
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\Proiect_GlejaruCostin\Proiect_GlejaruCostin\bin\Debug\Proiect_GlejaruCostin.pdb
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.exe
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.pdb
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.Adverb.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.Main.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.RomanaOF.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.Pronume.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.Substantiv.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.VizualizareRO.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.Engleza.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.VizualizareEN.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.Adauga1.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\Proiect_GlejaruCostin\Proiect_GlejaruCostin\bin\Debug\Proiect_GlejaruCostin.exe.config
+C:\Users\costi\Desktop\An Doi-Sem2v2\Proiect_GlejaruCostin\Proiect_GlejaruCostin\bin\Debug\Proiect_GlejaruCostin.exe
+C:\Users\costi\Desktop\An Doi-Sem2v2\Proiect_GlejaruCostin\Proiect_GlejaruCostin\bin\Debug\Proiect_GlejaruCostin.pdb
+C:\Users\costi\Desktop\An Doi-Sem2v2\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.Adauga1.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.Adjectiv.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.Adverb.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.Engleza.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.Main.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.Pronume.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.Properties.Resources.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.RomanaOF.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.Substantiv.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.Verb.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.VizualizareEN.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.VizualizareRO.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.csproj.GenerateResource.cache
+C:\Users\costi\Desktop\An Doi-Sem2v2\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.csproj.CoreCompileInputs.cache
+C:\Users\costi\Desktop\An Doi-Sem2v2\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.exe
+C:\Users\costi\Desktop\An Doi-Sem2v2\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.pdb
+C:\Users\costi\Desktop\An Doi-Sem2v2\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.csprojAssemblyReference.cache
+C:\Users\costi\Desktop\An Doi-Sem2v2\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.DESEN_EN.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.SubstantivBD.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.VerbDB.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.PronumeDB.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.AdjectivBD.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.AdverbDB.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.cuvEnglezaBD.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.csprojAssemblyReference.cache
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.Adauga1.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.Adjectiv.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.AdjectivBD.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.Adverb.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.AdverbDB.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.cuvEnglezaBD.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.DESEN_EN.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.Engleza.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.Main.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.Pronume.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.PronumeDB.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.Properties.Resources.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.RomanaOF.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.Substantiv.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.SubstantivBD.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.Verb.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.VerbDB.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.VizualizareEN.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.VizualizareRO.resources
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.csproj.GenerateResource.cache
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.csproj.CoreCompileInputs.cache
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.exe
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.pdb
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\bin\Debug\Proiect_GlejaruCostin.exe.config
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\bin\Debug\Proiect_GlejaruCostin.exe
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\bin\Debug\Proiect_GlejaruCostin.pdb
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\bin\Debug\LiveCharts.dll
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\bin\Debug\LiveCharts.pdb
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\bin\Debug\LiveCharts.xml
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\costi\Desktop\An Doi-Sem2v2\PAW\PROIECTUL CEL MAI FORTA SAFE VERSION\Proiect_GlejaruCostin\Proiect_GlejaruCostin\obj\Debug\Proiect_GlejaruCostin.csproj.CopyComplete
