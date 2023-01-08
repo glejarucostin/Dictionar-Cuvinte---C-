@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E622EA3F-D4B6-4264-886A-48351B45FFD9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Proiect_GlejaruCostin</RootNamespace>
+    <AssemblyName>Proiect_GlejaruCostin</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="LiveCharts, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.0.9.7\lib\net45\LiveCharts.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts.WinForms, Version=0.9.7.1, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.WinForms.0.9.7.1\lib\net45\LiveCharts.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts.Wpf, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.Wpf.0.9.7\lib\net45\LiveCharts.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Adauga1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Adauga1.Designer.cs">
+      <DependentUpon>Adauga1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Adjectiv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Adjectiv.Designer.cs">
+      <DependentUpon>Adjectiv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adjectiv1.cs" />
+    <Compile Include="AdjectivBD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdjectivBD.Designer.cs">
+      <DependentUpon>AdjectivBD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Adverb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Adverb.Designer.cs">
+      <DependentUpon>Adverb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adverb1.cs" />
+    <Compile Include="AdverbDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdverbDB.Designer.cs">
+      <DependentUpon>AdverbDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cuvant.cs" />
+    <Compile Include="cuvEngleza.cs" />
+    <Compile Include="cuvEnglezaBD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cuvEnglezaBD.Designer.cs">
+      <DependentUpon>cuvEnglezaBD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cuvRomana.cs" />
+    <Compile Include="DESEN_EN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DESEN_EN.Designer.cs">
+      <DependentUpon>DESEN_EN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Engleza.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Engleza.Designer.cs">
+      <DependentUpon>Engleza.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Pronume.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pronume.Designer.cs">
+      <DependentUpon>Pronume.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pronume1.cs" />
+    <Compile Include="PronumeDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PronumeDB.Designer.cs">
+      <DependentUpon>PronumeDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RomanaOF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RomanaOF.Designer.cs">
+      <DependentUpon>RomanaOF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Substantiv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Substantiv.Designer.cs">
+      <DependentUpon>Substantiv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="substantiv1.cs" />
+    <Compile Include="SubstantivBD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubstantivBD.Designer.cs">
+      <DependentUpon>SubstantivBD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Verb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Verb.Designer.cs">
+      <DependentUpon>Verb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="verb1.cs" />
+    <Compile Include="VerbDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VerbDB.Designer.cs">
+      <DependentUpon>VerbDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VizualizareEN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VizualizareEN.Designer.cs">
+      <DependentUpon>VizualizareEN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VizualizareRO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VizualizareRO.Designer.cs">
+      <DependentUpon>VizualizareRO.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Adauga1.resx">
+      <DependentUpon>Adauga1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Adjectiv.resx">
+      <DependentUpon>Adjectiv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdjectivBD.resx">
+      <DependentUpon>AdjectivBD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Adverb.resx">
+      <DependentUpon>Adverb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdverbDB.resx">
+      <DependentUpon>AdverbDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cuvEnglezaBD.resx">
+      <DependentUpon>cuvEnglezaBD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DESEN_EN.resx">
+      <DependentUpon>DESEN_EN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Engleza.resx">
+      <DependentUpon>Engleza.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pronume.resx">
+      <DependentUpon>Pronume.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PronumeDB.resx">
+      <DependentUpon>PronumeDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="RomanaOF.resx">
+      <DependentUpon>RomanaOF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Substantiv.resx">
+      <DependentUpon>Substantiv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubstantivBD.resx">
+      <DependentUpon>SubstantivBD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Verb.resx">
+      <DependentUpon>Verb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VerbDB.resx">
+      <DependentUpon>VerbDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VizualizareEN.resx">
+      <DependentUpon>VizualizareEN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VizualizareRO.resx">
+      <DependentUpon>VizualizareRO.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
